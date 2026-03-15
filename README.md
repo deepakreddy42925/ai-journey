@@ -13,3 +13,7 @@ Land an AI Engineer role by December 2026.
 
 ## Started
 March 14, 2026
+DAY-1:
+AI Python for Beginners - DeepLearningAI
+Module 1: Basics of AI Python Coding
+
